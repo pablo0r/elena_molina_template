@@ -6,6 +6,8 @@
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
 
+Un proyecto planificado en [Ideapolis](https://github.com/mgea/ideapolis/)
+
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
 
 ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
