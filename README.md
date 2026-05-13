@@ -4,6 +4,9 @@
 ``Plantilla para crear un proyecto de ideapolis``
 
 
+![logo](https://github.com/mgea/ideapolis_template/blob/main/ICFE_new%20logo100.png)
+
+
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
 
 Un proyecto planificado en [Ideapolis](https://github.com/mgea/ideapolis/)
@@ -14,9 +17,6 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 <br> 
 <br>
-
-
-
 
 **Titulo** : _______
 
