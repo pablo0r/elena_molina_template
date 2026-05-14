@@ -180,6 +180,10 @@ Diseñamos una persona principal con apoyo de Character.AI y entrevistas con per
 * **Publicidad / promoción — Landing Page**
 
   Construida en **Figma Make** con prompt optimizado. Headline: *"Deja el teclado, recupera tu aliento."* CTA primario: *"Únete gratis."* Conversion-focused, mobile-first.
+  https://hidden-award-89003549.figma.site/
+
+  * **Personaje**
+https://character.ai/chat/evVZlQdonlxPNB3nDtpqJ7oIF4ZLJ4GbT41w4m5NfwQ
 
 * **Proyecto — grado de conclusión**
 
