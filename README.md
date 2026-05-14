@@ -117,15 +117,33 @@ La frase que resume nuestra motivación es:
 
 ### Personas / Usuarios
 
-Diseñamos una persona principal con apoyo de Character.AI y entrevistas con perfiles reales del entorno cercano:
+Una **persona de usuario** es un arquetipo ficticio, pero construido a partir de datos reales, que representa al segmento principal al que queremos servir. Sintetiza demografía, motivaciones, frustraciones y comportamientos en un personaje único con nombre, cara y voz. Sirve como "norte" para todas las decisiones de diseño, comunicación y producto: cada vez que el equipo duda —¿este tono es demasiado técnico?, ¿este precio es viable?, ¿una escapada de 12 km es accesible?— preguntamos «¿qué haría Elena?» en vez de adivinar.
+
+Diseñamos nuestra persona principal apoyándonos en **Character.AI** (para iterar diálogos y validar la coherencia de su personalidad) y en entrevistas con perfiles reales del entorno cercano del equipo.
+
+![Persona Elena Molina](img/07_persona_elena.png)
+
+> *Ficha de persona elaborada sobre la plantilla del DIU-UX Toolkit de la Universidad de Granada. La fotografía es representativa y no corresponde a una persona real.*
 
 **Elena Molina** — 35 años, Asistente de Marketing en Madrid. Trabaja 40 h/semana en una agencia de publicidad. Su escape actual es el yoga los fines de semana y, ocasionalmente, escapadas dominicales por la naturaleza.
 
 * **Pain points:** estrés laboral crónico, agobio por el ruido y el tráfico, dificultad para desconectar del trabajo.
 * **Goals:** yoga y meditación, senderismo, escapadas rurales, *slow life*, fotografía de paisajes.
 * **Quote:** *"Necesito un respiro de todo el estrés diario."*
+* **Marcas afines:** Apple (diseño con propósito) · Oreo (tradición cálida) · Iberia (escapadas) · Booking (planificación) · Yoga Studio (práctica diaria) · Airbnb (alojamientos con alma). Esta paleta de afinidades guió decisiones de tono visual y elección de referentes.
 
-**Mapa de empatía:**
+**Por qué Elena y no otra persona.** Representa el segmento mayoritario de nuestro público objetivo según las entrevistas previas: profesional urbano de 30-40 años, alta carga cognitiva, capacidad de pago moderada, ya practica algo de bienestar de forma intermitente pero busca más comunidad y menos soledad digital. Si la propuesta resuena con Elena, resonará con la mayor parte del target inicial.
+
+
+### Mapa de empatía
+
+El **mapa de empatía** es una herramienta de Design Thinking (popularizada por XPLANE y Dave Gray) que organiza lo que un usuario *oye*, *ve*, *piensa y siente* y *dice y hace*, además de sus *dolores* y *ganancias* esperadas. A diferencia de la persona —que es estática y biográfica— el mapa de empatía sitúa al usuario en su contexto cotidiano y nos obliga a meternos dentro de su cabeza. Lo construimos en sesión colaborativa, con post-its sobre **FigJam**, partiendo de los datos de la persona y de las entrevistas previas.
+
+![Mapa de empatía Elena Molina](img/08_empathy_map.png)
+
+> *Mapa de empatía elaborado en FigJam por el equipo, basado en los datos de la persona Elena Molina y entrevistas semiestructuradas.*
+
+Síntesis textual de los seis cuadrantes:
 
 * **Oye:** consejos de amigos sobre retiros rurales · podcasts de meditación · quejas de compañeros sobre el ruido y el tráfico.
 * **Ve:** el paisaje de la ciudad desde la oficina · fotos en redes de amigos en la montaña · documentales sobre lo nociva que puede ser la vida en la ciudad.
@@ -133,6 +151,34 @@ Diseñamos una persona principal con apoyo de Character.AI y entrevistas con per
 * **Dice y hace:** se queja de las jornadas largas · sigue cuentas afines en redes · investiga retiros rurales.
 * **Dolor (Pain Points):** agotamiento físico y mental · falta de tiempo para sí misma.
 * **Ganancias (Gains):** acceso a una comunidad de iguales · recuperar el bienestar físico y mental.
+
+**Insight clave que extrajimos del mapa.** Elena no necesita *más* información (ya consume podcasts, documentales, cuentas) — necesita **acción asistida en compañía**. Esto reorientó la propuesta desde "otra app de contenido" hacia "comunidad + escapadas presenciales", que es justamente lo que diferencia a Escapadas Naturales del nicho saturado de wellness apps.
+
+
+### Seis Sombreros para Pensar
+
+Antes de pasar a prototipar, aplicamos la metodología **"Seis Sombreros para Pensar"** de Edward de Bono para forzarnos a examinar el proyecto desde seis ángulos distintos y desbloquear puntos ciegos. Cada sombrero representa una *modalidad de pensamiento* que el equipo "lleva puesta" durante un rato, evitando que la conversación se enrede entre marcos incompatibles (lo emocional contra lo lógico, lo creativo contra lo analítico). Lo dinamizamos en **FigJam** con un facilitador rotativo y rondas cronometradas de 8 minutos por sombrero.
+
+![Seis Sombreros para Pensar](img/09_six_hats.png)
+
+> *Sesión de Seis Sombreros aplicada al proyecto, facilitada por Darío Carrasco sobre FigJam.*
+
+Lo que surgió en cada sombrero:
+
+| Sombrero | Modalidad de pensamiento | Conclusión del equipo |
+|---|---|---|
+| ⚪ **Blanco** | Datos objetivos y hechos | El mercado de turismo rural y actividades de bienestar está creciendo de forma sostenida. |
+| 🔴 **Rojo** | Emoción e intuición | Sentimos que la gente está realmente "quemada" y necesita desesperadamente un respiro. La gente se siente sola en su agobio. |
+| ⚫ **Negro** | Precaución y riesgos | Hay muchísimas cuentas de yoga y mindfulness ya establecidas. Los usuarios pueden seguir la cuenta por el contenido bonito pero no llegar a practicar los ejercicios ni asistir a los retiros. |
+| 🟡 **Amarillo** | Optimismo y beneficios | Es una oportunidad única para crear una marca con propósito que mejore la salud mental de la gente. Empezar en redes sociales permite validar la idea sin mucha inversión. |
+| 🟢 **Verde** | Creatividad y alternativas | Crear alianzas con casas rurales para ofrecer precios especiales a la comunidad. Crear audios ASMR de sonidos del campo para usar en el metro o en la oficina. |
+| 🔵 **Azul** | Proceso y dirección | Definir el calendario de contenidos para RRSS como primer entregable y rotar el rol de facilitador en cada sesión del equipo. |
+
+**Decisiones concretas que disparó este ejercicio:**
+
+1. La amenaza del sombrero **negro** (apps con buen marketing pero baja conversión a práctica real) nos llevó a desplazar el énfasis hacia los **encuentros presenciales** como diferenciador imposible de imitar por una app.
+2. La idea creativa del sombrero **verde** —audios ASMR del campo— entra en el roadmap como **producto secundario gratuito** de la newsletter: un micro-recurso descargable que refuerza el hábito de pausa en plena ciudad.
+3. El sombrero **amarillo** validó la secuencia de lanzamiento: **redes sociales → newsletter → comunidad WhatsApp → escapadas presenciales**, escalando sólo cuando hay tracción demostrada en la fase anterior.
 
 
 ## Etapa 2: Prototipar / productos
